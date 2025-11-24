@@ -14,8 +14,8 @@ source venv/bin/activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
-<!-- # 4. Download Models
-python model_download.py -->
+# 4. Download Models
+python model_download.py
 
 # 5. Initiate the server
 uvicorn main:app --reload
