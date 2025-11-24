@@ -1,0 +1,13 @@
+# Python artifacts
+*.pyc
+__pycache__/
+
+venv/
+my_chroma_db/
+
+models/
+my_chroma_db/
+
+*.log
+tmp/
+.vscode/
